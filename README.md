@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Welcome to Ruichen Li's Github Page
 
-You can use the [editor on GitHub](https://github.com/RLinter/rlinter.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Undergraduate
 
-### Markdown
+**University of California, San Diego** (*UCSD*)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The expected graduate time is winter quarter 2023
 
-```markdown
-Syntax highlighted code block
+### High School
 
-# Header 1
-## Header 2
-### Header 3
+**Princeton International School of Mathematics and Science** (*PRISMS*) / 2015 -> 2019
 
-- Bulleted
-- List
+## Expertise
 
-1. Numbered
-2. List
+* Java
+* R (Machine learning related)
 
-**Bold** and _Italic_ and `Code` text
+## Experienced at
 
-[Link](url) and ![Image](src)
-```
+* C
+* C++
+* AutoCAD
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## More about me
 
-### Jekyll Themes
+Some of my favorite songs:
+* [Someone You Loved](https://www.youtube.com/watch?v=zABLecsR5UE)
+* [The Nights](https://www.youtube.com/watch?v=UtF6Jej8yb4)
+* [SOLO](https://www.youtube.com/watch?v=b73BI9eUkjM)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RLinter/rlinter.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Below is a picture of my dogs
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![dogs](Laifu.jpg)
